@@ -1,0 +1,16 @@
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/obj/Debug/net5.0/oop-lesson-5-eightball.csproj.AssemblyReference.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/obj/Debug/net5.0/oop-lesson-5-eightball.GeneratedMSBuildEditorConfig.editorconfig
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/obj/Debug/net5.0/oop-lesson-5-eightball.AssemblyInfoInputs.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/obj/Debug/net5.0/oop-lesson-5-eightball.AssemblyInfo.cs
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/obj/Debug/net5.0/oop-lesson-5-eightball.csproj.CoreCompileInputs.cache
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/bin/Debug/net5.0/oop-lesson-5-eightball
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/bin/Debug/net5.0/oop-lesson-5-eightball.deps.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/bin/Debug/net5.0/oop-lesson-5-eightball.runtimeconfig.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/bin/Debug/net5.0/oop-lesson-5-eightball.runtimeconfig.dev.json
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/bin/Debug/net5.0/oop-lesson-5-eightball.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/bin/Debug/net5.0/ref/oop-lesson-5-eightball.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/bin/Debug/net5.0/oop-lesson-5-eightball.pdb
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/obj/Debug/net5.0/oop-lesson-5-eightball.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/obj/Debug/net5.0/ref/oop-lesson-5-eightball.dll
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/obj/Debug/net5.0/oop-lesson-5-eightball.pdb
+/home/mateuscampos/Documents/Dorset College/Year 2/Semester 1/Object-Oriented Programming/oop-lesson-5-eightball/obj/Debug/net5.0/oop-lesson-5-eightball.genruntimeconfig.cache
